@@ -22,7 +22,9 @@
 
 ###
 
-<h1 align="center">Hello World!</h1>
+<br clear="both">
+
+<h1 align="left">Hello World!</h1>
 
 ###
 
