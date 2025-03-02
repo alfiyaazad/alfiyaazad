@@ -1,4 +1,4 @@
-<img style="border-radius: 100%;" align="left" height="200" src="https://avatars.githubusercontent.com/u/140640149?v=4" />
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/140640149?v=4" />
 
 ###
 
